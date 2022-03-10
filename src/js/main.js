@@ -86,8 +86,7 @@ function renderLista() {
 
         listaEl.appendChild(itemEl);
 
-    });
-}
+    }
 
 
 }
