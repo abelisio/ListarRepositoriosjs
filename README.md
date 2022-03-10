@@ -1,3 +1,3 @@
-# Listar Repositorios do GitHub
+# Lista Repositorios do GitHub
 
 Esse app foi feito em Java Script puro
